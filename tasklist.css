@@ -1,0 +1,12 @@
+body{
+    direction: rtl;
+}
+.container{
+    margin-top: 50px;
+}
+label{
+    right:0;
+}
+.delete-item{
+    float: left;
+}
